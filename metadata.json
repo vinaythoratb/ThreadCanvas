@@ -1,0 +1,5 @@
+{
+  "name": "Canvas",
+  "description": "A dual-mode AI conversation interface featuring linear chat and spatial canvas views, designed for complex non-linear creative work with branching and context management.",
+  "requestFramePermissions": []
+}
